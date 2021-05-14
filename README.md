@@ -46,4 +46,28 @@ SILAC: <br/>
 
 C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\1 DundeeProteomicDataSet_14112017\iBAQ_TNBC\iBAQ_SILAC_2\PerseusIntputTable_SILAC_Literature_TNBC.xlsx (you can find all the proteins with ENSG in the raw file) -> Literature.txt & SILAC.txt -> PerseusOutputTable_SILAC_Literature_TNBC.sps -> PerseusOutputTable_SILAC_Literature_TNBC_5533.txt -> SILAC_Literature_TNBC_5385.xlsx (delete all the NAs)
 
+## Figure 2
+Note: /
+LFQ:
+1. in Perseus ""VolcanoPlots.sps"", output tables: PerseusOutPutTable_X vs. Y
+2. in R: ""VolcanoPlotForLFQ_X.R"", input the output tables from Perseus (around 2,700 proteins)
+3. plot in R
+
+SILAC:
+1. Input output table from Perseus (in folder: .\MatchingLFQ&SILAC)
+2. in R: ""VolcanoPlotForSILAC_X.R"", input the output tables from Perseus (around 5,100 proteins)
+3. plot in R
+4. SILAC: Median
+
+Double check the labels on the volcano plot by comparing them to the “supplementary data 6 – significant proteins”, lots of genes are not in the dataset:
+1.	It doesn’t have to be match, cause the “supplementary data 6” was reporting mean of LFQ and SILAC, the proteins have to be detected in both and in the same direction also being significant in both.
+2.	LAMB3 in SILAC-EM, it has a p value a bit over 0.05, so not in the supplementary data
+3.	PKP2 in SILAC-HE, not significant in LFQ (check on the raw data in “C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\MatchingLFQ&SILAC\5&6”)
+4.	PRSS23 in LFQ-HM, not valid in SILAC
+5.	POMC in SILAC-HM, not detected in LFQ
+6.	KRT1 in SILAC-HM, not detected in LFQ
+7.	DCD in SILAC-HM, not detected in LFQ
+8.	PCSK1N in SILAC-HM, not detected in LFQ
+9.	AKR1C1 in SILAC-HM, not detected in LFQ
+10.	ALDH1A3 in SILAC-HM, not significant in LFQ
 
