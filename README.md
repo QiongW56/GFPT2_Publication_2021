@@ -110,6 +110,14 @@ EMT markers: <br/>
 ## Figure 4J-L
 Growth curves of D492, D492M, and D492HER2 with siGFPT2 treatments <br/>
 
+## Figure 4M
+Migration rates with siGFPT2 treatments <br/>
+
+## Figure 4N-O
+Invasion with siGFPT2 treatments <br/>
+
+
+
 
 
 
