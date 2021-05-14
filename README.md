@@ -120,12 +120,12 @@ Invasion with siGFPT2 treatments <br/>
 Invasion: Evos --> pictures --> ImageJ & Macro API --> R <br/>
 
 ## Figure 5
-Note:
-"CCLE: download GFPT2 data from CCLE website --> z-score and plotting in R
-HMS: download data from HMS website --> organize in excel --> z-score and plotting in R
-used Smith's paper to characterize the breast cell lines for both CCLE and HMS
-Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10
-Patients: download data from TCGA --> Calculate in R --> plot in excel"
+Note: <br/>
+"CCLE: download GFPT2 data from CCLE website --> z-score and plotting in R <br/>
+HMS: download data from HMS website --> organize in excel --> z-score and plotting in R <br/>
+used Smith's paper to characterize the breast cell lines for both CCLE and HMS <br/>
+Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10 <br/>
+Patients: download data from TCGA --> Calculate in R --> plot in excel" <br/>
 
 README.txt:
 DPYD paper (with MMS signaures): 
