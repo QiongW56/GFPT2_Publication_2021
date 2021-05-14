@@ -124,6 +124,12 @@ Note: <br/>
 "CCLE: download GFPT2 data from CCLE website --> z-score and plotting in R <br/>
 HMS: download data from HMS website --> organize in excel --> z-score and plotting in R <br/>
 used Smith's paper to characterize the breast cell lines for both CCLE and HMS <br/>
+<br/>
+Molecular characterization of breast cancer cell lines through multiple omic approaches<br/>
+SE Smith 2017<br/>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460504/<br/>
+additional file 2<br/>
+
 Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10 <br/>
 Patients: download data from TCGA --> Calculate in R --> plot in excel" <br/>
 
