@@ -97,3 +97,19 @@ C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tab
 a.	all subtypes of breast patients <br/>
 b.	all 29 genes for analysis <br/>
 c.	20% of top or bottom patients for plotting <br/>
+
+## Figure 4A-C
+Gene expression (RNA or protein) bar plots <br/>
+
+## Figure 4D-I
+Boxplots - CDH1&CDH2 expression with siGFPT2 treatments <br/>
+EMT markers: <br/>
+1. used the results from the SQRDL_siRNA1 experiment <br/>
+2. for D492M_CDH2, used the data from before (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\4 Experiments documents_QIONG\14 Knockdowns Experiments\Results\8 KD_CDH1&2\KD_CDH1&2_Plotting") <br/>
+
+
+
+
+
+
+
