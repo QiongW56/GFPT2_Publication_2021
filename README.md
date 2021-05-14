@@ -119,6 +119,32 @@ Migration: output from IncuCyte <br/>
 Invasion with siGFPT2 treatments <br/>
 Invasion: Evos --> pictures --> ImageJ & Macro API --> R <br/>
 
+## Figure 5
+Note:
+"CCLE: download GFPT2 data from CCLE website --> z-score and plotting in R
+HMS: download data from HMS website --> organize in excel --> z-score and plotting in R
+used Smith's paper to characterize the breast cell lines for both CCLE and HMS
+Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10
+Patients: download data from TCGA --> Calculate in R --> plot in excel"
+
+README.txt:
+DPYD paper (with MMS signaures): 
+It doesn't have expression data for genes in each cell line
+
+TNBC-iBAQ paper: 
+It doesn't have HER2 data, just TNBC and Luminal.
+We can only use this for the dendrogram plotting because we can use the iBAQ data
+
+So I combined HMS dataset with Smith's paper (cell line characterization) and CCLE dataset with Smith's paper:
+HMS: less cell lines
+CCLE: more cell lines
+Smith's paper for classification
+
+I can combine the TNBC-iBAQ and Smith's paper together for cell characterization, but they don't really agree with each other. 
+But i replaced the "Basal B" with "Mesenchymal" for three cell lines "BT549","MDAMB231", "MDAMB157"
+
+
+
 
 
 
