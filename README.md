@@ -81,3 +81,7 @@ Treemap plots:
 6. manually pick up the metabolic pathways
 7. deleted the 'metabolism of protein' and 'metabolism of RNA' the big groups (take big space in treemap and give less information)
 8. used Supplementary Data 6 but didnt delete proteins with SILAC p value > 0.05 (which = C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\IPA\ImportFile\Proteomics_LFQ&SILAC_X.xlsx files)
+
+## Figure 3D
+R version: 3.5.2; ComplexHeatmap version: 1.20.0 <br/>
+
