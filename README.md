@@ -109,13 +109,15 @@ EMT markers: <br/>
 
 ## Figure 4J-L
 Growth curves of D492, D492M, and D492HER2 with siGFPT2 treatments <br/>
+Growth Curve (Proliferation): microscope --> pictures --> Macro API & ImageJ --> R <br/>
 
 ## Figure 4M
 Migration rates with siGFPT2 treatments <br/>
+Migration: output from IncuCyte <br/>
 
 ## Figure 4N-O
 Invasion with siGFPT2 treatments <br/>
-
+Invasion: Evos --> pictures --> ImageJ & Macro API --> R <br/>
 
 
 
