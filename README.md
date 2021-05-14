@@ -85,3 +85,10 @@ Treemap plots:
 ## Figure 3D
 R version: 3.5.2; ComplexHeatmap version: 1.20.0 <br/>
 
+## Figure 3E-F
+Note: 
+for the “profile” table, check on the file:
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\SurvivalCurveGeneration_17.09.2019\Outputs\ Effict-Organized-For-Plotting.xlsx or Effect_ALL_Sign_Final_all_29Genes.xlsx
+a.	all subtypes of breast patients
+b.	all 29 genes for analysis
+c.	20% of top or bottom patients for plotting
