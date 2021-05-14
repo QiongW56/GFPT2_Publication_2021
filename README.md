@@ -47,7 +47,7 @@ SILAC: <br/>
 C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\1 DundeeProteomicDataSet_14112017\iBAQ_TNBC\iBAQ_SILAC_2\PerseusIntputTable_SILAC_Literature_TNBC.xlsx (you can find all the proteins with ENSG in the raw file) -> Literature.txt & SILAC.txt -> PerseusOutputTable_SILAC_Literature_TNBC.sps -> PerseusOutputTable_SILAC_Literature_TNBC_5533.txt -> SILAC_Literature_TNBC_5385.xlsx (delete all the NAs)
 
 ## Figure 2
-Note: /
+Note: 
 LFQ:
 1. in Perseus ""VolcanoPlots.sps"", output tables: PerseusOutPutTable_X vs. Y
 2. in R: ""VolcanoPlotForLFQ_X.R"", input the output tables from Perseus (around 2,700 proteins)
