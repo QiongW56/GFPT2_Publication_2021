@@ -73,7 +73,7 @@ Double check the labels on the volcano plot by comparing them to the “suppleme
 
 ## Figure 3A-C
 Treemap plots:
-1. take genes from 'SupplementaryData6_DifferentlyExpressedProteins'
+1. take genes from 'SupplementaryData7_DifferentlyExpressedProteins'
 2. put genes for D492 vs. D492M and D492 vs. D492HER2 separately into Reactome (up- and down-regulated genes are together)
 3. Used default setting
 4. download results
