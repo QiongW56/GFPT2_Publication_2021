@@ -59,8 +59,8 @@ SILAC:
 3. plot in R
 4. SILAC: Median
 
-Double check the labels on the volcano plot by comparing them to the “supplementary data 6 – significant proteins”, lots of genes are not in the dataset:
-1.	It doesn’t have to be match, cause the “supplementary data 6” was reporting mean of LFQ and SILAC, the proteins have to be detected in both and in the same direction also being significant in both.
+Double check the labels on the volcano plot by comparing them to the “supplementary data 7 – significant proteins”, lots of genes are not in the dataset:
+1.	It doesn’t have to be match, cause the “supplementary data 7” was reporting mean of LFQ and SILAC, the proteins have to be detected in both and in the same direction also being significant in both.
 2.	LAMB3 in SILAC-EM, it has a p value a bit over 0.05, so not in the supplementary data
 3.	PKP2 in SILAC-HE, not significant in LFQ (check on the raw data in “C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\MatchingLFQ&SILAC\5&6”)
 4.	PRSS23 in LFQ-HM, not valid in SILAC
