@@ -127,7 +127,7 @@ used Smith's paper to characterize the breast cell lines for both CCLE and HMS <
 Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10 <br/>
 Patients: download data from TCGA --> Calculate in R --> plot in excel" <br/>
 
-README.txt:
+README.txt: <br/>
 DPYD paper (with MMS signaures): 
 It doesn't have expression data for genes in each cell line
 
