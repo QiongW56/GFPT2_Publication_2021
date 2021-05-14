@@ -71,3 +71,13 @@ Double check the labels on the volcano plot by comparing them to the “suppleme
 9.	AKR1C1 in SILAC-HM, not detected in LFQ
 10.	ALDH1A3 in SILAC-HM, not significant in LFQ
 
+## Figure 3A-C
+Treemap plots:
+1. take genes from 'SupplementaryData6_DifferentlyExpressedProteins'
+2. put genes for D492 vs. D492M and D492 vs. D492HER2 separately into Reactome (up- and down-regulated genes are together)
+3. Used default setting
+4. download results
+5. work in excel (FDR < 0.05)
+6. manually pick up the metabolic pathways
+7. deleted the 'metabolism of protein' and 'metabolism of RNA' the big groups (take big space in treemap and give less information)
+8. used Supplementary Data 6 but didnt delete proteins with SILAC p value > 0.05 (which = C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\IPA\ImportFile\Proteomics_LFQ&SILAC_X.xlsx files)
