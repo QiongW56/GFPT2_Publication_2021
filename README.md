@@ -84,6 +84,8 @@ Treemap plots:
 
 ## Figure 3D
 R version: 3.5.2; ComplexHeatmap version: 1.20.0 <br/>
+Literature: Dihydropyrimidine Accumulation Is Required for the Epithelial-Mesenchymal Transition <br/>
+note: this paper didn't post the raw data, so i could not know the expression of GFPT2 in each cell line (just mes and non-mes groups) <br/>
 
 ## Figure 3E-F
 Note: <br/>
