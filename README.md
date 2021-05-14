@@ -107,7 +107,8 @@ EMT markers: <br/>
 1. used the results from the SQRDL_siRNA1 experiment <br/>
 2. for D492M_CDH2, used the data from before (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\4 Experiments documents_QIONG\14 Knockdowns Experiments\Results\8 KD_CDH1&2\KD_CDH1&2_Plotting") <br/>
 
-
+## Figure 4J-L
+Growth curves of D492, D492M, and D492HER2 with siGFPT2 treatments <br/>
 
 
 
