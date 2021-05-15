@@ -237,7 +237,7 @@ Summary of the study - generated in excel.
         
 ## Supplementary Figure 1A
 1.Used the “Peptide” excel sheet from the raw data and produced in Perseus <br/>
-2.Generated in Perseus and plotted in R <br/>
+2.Generated in Perseus (version 1.6.2.2) and plotted in R <br/>
 
 
 
