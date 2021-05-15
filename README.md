@@ -300,4 +300,47 @@ Bubble charts<br/>
 4. for the bubble chart, pvalues were mean of LFQ_FDR and SILAC_Pvalue
 5. For the pathway heatmap, protein quantification data only used LFQ data (didn't use the heatmap)
 
+## Supplementary Figure 4
+This figure was generated in Reactome - STRING - Cytoscape <br/>
+
+Data used:<br/>
+"C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\IPA\ImportFile
+Proteomics_LFQ&SILAC_X.xlsx"<br/>
+
+How the figure was generated:<br/>
+"1. Reactome pathways
+2. Metabolic Reactome Pathways
+3. Genes in metabolic pathways
+4. STRING interaction
+5. Cytoscape
+6. Color up- or down-regulated genes 
+7. Enlarge genes with at least 2-fold differences"
+
+Location:<br/>
+"C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_E vs M
+C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs E
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs M"
+"C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome
+C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_E vs M\EM
+C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs E\HE
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs M\STRING-output"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
