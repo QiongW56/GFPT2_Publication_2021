@@ -222,7 +222,7 @@ IPA analysis of the phosphoproteomic dataset (D492 vs. D492HER2)
 Perseus motif enrichment analysis for D492 vs. D492HER2; Perseus version 1.6.2.3
 
 ## Figure 8G-I
-Figures generated in excels.
+Figures generated in excels. <br/>
 GSK3B_pS9 <br/>
 GSK3B RNA level <br/>
 GSK3B protein level <br/>
