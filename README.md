@@ -334,6 +334,9 @@ C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tab
 ## Supplementary Figure 5A-C
 RNA expression of GALE, UGDH and PGM2L1.
 
+## Supplementary Figure 5D-E
+Knockdown efficiency for GFPT2 in all four cell lines with two siRNAs.
+
 
 
 
