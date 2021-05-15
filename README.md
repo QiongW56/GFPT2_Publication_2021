@@ -205,6 +205,8 @@ H<sub>2</sub>O<sub>2</sub> treatment on glutathione and GSH; GSH treatment on GF
 ## Figure 7F
 Wide type expression of GSH in the three cell lines; acidic model; Glutamic Acid IS 
 
+## Figure 7G-N
+SQOR RNA expression - siGFPT2 treatment in four cell lines with two siRNAs.
 
 
 
