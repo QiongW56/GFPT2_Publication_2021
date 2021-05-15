@@ -125,8 +125,8 @@ Note: <br/>
 CCLE (https://portals.broadinstitute.org/ccle) <br/>
 HMS: download data from HMS website --> organize in excel --> z-score and plotting in R <br/>
 HMS LINCS (http://lincs.hms.harvard.edu/db/datasets/20348/) <br/>
+
 used Smith's paper to characterize the breast cell lines for both CCLE and HMS <br/>
-<br/>
 Molecular characterization of breast cancer cell lines through multiple omic approaches<br/>
 SE Smith 2017<br/>
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5460504/<br/>
