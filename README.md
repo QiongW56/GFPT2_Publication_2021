@@ -208,6 +208,11 @@ Wide type expression of GSH in the three cell lines; acidic model; Glutamic Acid
 ## Figure 7G-N
 SQOR RNA expression - siGFPT2 treatment in four cell lines with two siRNAs.
 
+## Figure 8A-D
+Figures generated in excels.
+
+## Figure 8E
+IPA analysis of the phosphoproteomic dataset (D492 vs. D492HER2)
 
 
         
