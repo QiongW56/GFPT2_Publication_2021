@@ -134,6 +134,7 @@ additional file 2<br/>
 
 Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10 <br/>
 Patients: download data from TCGA --> Calculate in R --> plot in excel" <br/>
+https://www.cbioportal.org/study/summary?id=brca_metabric <br/>
 
 README.txt: <br/>
 DPYD paper (with MMS signaures): 
@@ -256,7 +257,16 @@ To generate the scatter plots
 4. marked the >=1 or <=-1 (deleted in the end)
 5. labeled the top 50 genes (deleted in the end)
 
+## Supplementary Figure 1G-H 
+Note: <br/>
+Heatmap: Median for SILAC not mean (you can check on the Perseus file “Annotations for E M HER2_SILAC_1.6.2.2.sps” in the folder “ProteinSignatureInCells”)
+LFQ: 1841 proteins for plotting <br/>
+SILAC: 2838 proteins for plotting
 
-
+## Supplementary Figure 2
+Heatmap of the EMT markers from the dbemt database along with the Reactome pathway analysis <br/>
+EMT markers were downloaded from http://dbemt.bioinfo-minzhao.org/ <br/>
+Genes in each cluster were put into Reactome (2020.4.18, Version 72)<br/>
+ 
 
 
