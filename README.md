@@ -318,12 +318,20 @@ How the figure was generated:<br/>
 
 Location:<br/>
 "C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_E vs M
+
 C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs E
+
 C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs M"
+
 "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome
+
 C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_E vs M\EM
+
 C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs E\HE
+
 C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs M\STRING-output"
+
+
 
 
 
