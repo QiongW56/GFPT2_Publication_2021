@@ -239,9 +239,22 @@ Summary of the study - generated in excel.
 1.Used the “Peptide” excel sheet from the raw data and produced in Perseus <br/>
 2.Generated in Perseus (version 1.6.2.2) and plotted in R <br/>
 
+## Supplementary Figure 1B-C
+Peptide length covered by LFQ and SILAC methods.
 
+## Supplementary Figure 1D-F
+1.	Genes identified and quantified in both LFQ and SILAC
+2.	at least 2 out of 3 replicates in LFQ
+3.	at least 2 out of 3 ratios in SILAC
+4.	Log2FC were plotted
+5.	no information about pvalue, so genes could be significant or not"
 
-
+To generate the scatter plots
+1. In Perseus&excel, find genes in both LFQ and SILAC, no matter for pvalues or directions because this is what you want to plot to see the correlation so you cannot select data manually
+2. mean of LFQ and median of SILAC for the triplicates
+3. import into R for plotting the scatter plot
+4. marked the >=1 or <=-1 (deleted in the end)
+5. labeled the top 50 genes (deleted in the end)
 
 
 
