@@ -197,11 +197,10 @@ Metabolic profiling of cancer cells reveals genome-wide crosstalk between transc
 https://www.nature.com/articles/s41467-019-09695-9#additional-information<br/>
 
 ## Figure 7B
-H2<sub>O2<sub> treatment on GFPT2 in the MDAMB231 cell line. <br/>
+H<sub>2</sub>O<sub>2</sub> treatment on GFPT2 in the MDAMB231 cell line. <br/>
 
 ## Figure 7C-E
-H<sub>2O<sub>2 
-        treatment on glutathione and GSH; GSH treatment on GFPT2 <br/>
+H<sub>2</sub>O<sub>2</sub> treatment on glutathione and GSH; GSH treatment on GFPT2 <br/>
 
 ## Figure 7F
 Wide type expression of GSH in the three cell lines; acidic model; Glutamic Acid IS 
