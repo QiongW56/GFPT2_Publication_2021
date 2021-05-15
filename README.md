@@ -337,9 +337,8 @@ RNA expression of GALE, UGDH and PGM2L1.
 ## Supplementary Figure 5D-E
 Knockdown efficiency for GFPT2 in all four cell lines with two siRNAs.
 
-
-
-
+## Supplementary Figure 6-7
+Western blots and Cell images
 
 
 
