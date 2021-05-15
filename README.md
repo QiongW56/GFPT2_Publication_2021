@@ -182,6 +182,9 @@ UDP-GlcNAc levels in the three cell lines; basic mode data; Succinate IS <br/>
 ## Figure 6C
 13C tracing experiments; normalized to the total metabolite level from basic mode (data used for figure 6B). <br/>
 
+## Figure 6D-F
+data from the acidic mode; <br/>
+Internal standards: UDP-GlcNAc - phenylalanine IS; Glutamate - Glutamic acid IS; cystathionine - succinate IS <br/>
 
 
 
