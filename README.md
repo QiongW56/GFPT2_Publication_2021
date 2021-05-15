@@ -214,6 +214,10 @@ Figures generated in excels.
 ## Figure 8E
 IPA analysis of the phosphoproteomic dataset (D492 vs. D492HER2)
 
+## Figure 8F
+Perseus motif enrichment analysis for D492 vs. D492HER2; Perseus version 1.6.2.3
+
+
 
         
         
