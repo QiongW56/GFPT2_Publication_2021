@@ -186,6 +186,19 @@ UDP-GlcNAc levels in the three cell lines; basic mode data; Succinate IS <br/>
 data from the acidic mode; <br/>
 Internal standards: UDP-GlcNAc - phenylalanine IS; Glutamate - Glutamic acid IS; cystathionine - succinate IS <br/>
 
+## Figure 7A
+Metabolic profiling of cancer cells reveals genome-wide crosstalk between transcriptional regulators and metabolism<br/>
+https://www.nature.com/articles/s41467-019-09695-9<br/>
+
+Cellminer<br/>
+https://discover.nci.nih.gov/cellminer/loadDownload.do<br/>
+
+Metabolic profiling of cancer cells reveals genome-wide crosstalk between transcriptional regulators and metabolism<br/>
+https://www.nature.com/articles/s41467-019-09695-9#additional-information<br/>
+
+
+
+
 
 
 
