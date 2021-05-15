@@ -209,13 +209,23 @@ Wide type expression of GSH in the three cell lines; acidic model; Glutamic Acid
 SQOR RNA expression - siGFPT2 treatment in four cell lines with two siRNAs.
 
 ## Figure 8A-D
-Figures generated in excels.
+Figures generated in excels. <br/>
+Secretome analysis <br/>
+EGF - GFPT2 <br/>
+Insulin - GFPT2 <br/>
+IGF1R higher in D492HER2 <br/>
 
 ## Figure 8E
 IPA analysis of the phosphoproteomic dataset (D492 vs. D492HER2)
 
 ## Figure 8F
 Perseus motif enrichment analysis for D492 vs. D492HER2; Perseus version 1.6.2.3
+
+## Figure 8G-I
+Figures generated in excels.
+GSK3B_pS9 <br/>
+GSK3B RNA level <br/>
+GSK3B protein level <br/>
 
 
 
