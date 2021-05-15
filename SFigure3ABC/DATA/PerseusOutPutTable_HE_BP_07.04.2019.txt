@@ -1,0 +1,138 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+#!{Type}C	C	C	C	N	N	N	N	N	N	N
+GOBP slim name	nucleotide-sugar metabolic process	HE	YES	7081	10	656	5	5.3971	0.0010466	0.0059657
+GOBP slim name	cellular metabolic compound salvage	HE	YES	7081	14	656	6	4.6261	0.00085975	0.0052134
+GOBP slim name	hormone transport	HE	YES	7081	13	656	5	4.1516	0.0040005	0.017541
+GOBP slim name	cellular aromatic compound metabolic process	HE	YES	7081	51	656	14	2.9631	0.00011409	0.0010489
+GOBP slim name	extracellular matrix organization	HE	YES	7081	74	656	19	2.7715	2.1343E-05	0.00033793
+GOBP slim name	extracellular structure organization	HE	YES	7081	74	656	19	2.7715	2.1343E-05	0.00033793
+GOBP slim name	cell junction organization	HE	YES	7081	64	656	15	2.5299	0.00040775	0.0029052
+GOBP slim name	nucleobase-containing compound transport	HE	YES	7081	81	656	17	2.2655	0.00065202	0.0042546
+GOBP slim name	nucleobase-containing small molecule metabolic process	HE	YES	7081	158	656	33	2.2545	3.6742E-06	7.4796E-05
+GOBP slim name	heterocycle metabolic process	HE	YES	7081	179	656	37	2.2312	1.2859E-06	3.6266E-05
+GOBP slim name	nucleotide metabolic process	HE	YES	7081	136	656	28	2.2223	2.4431E-05	0.00034815
+GOBP slim name	organic acid metabolic process	HE	YES	7081	243	656	50	2.221	2.2945E-08	2.0745E-06
+GOBP slim name	generation of precursor metabolites and energy	HE	YES	7081	118	656	24	2.1954	0.00010473	0.0010293
+GOBP slim name	cellular amino acid metabolic process	HE	YES	7081	143	656	29	2.189	2.3681E-05	0.00034815
+GOBP slim name	cellular ketone metabolic process	HE	YES	7081	252	656	51	2.1845	2.9116E-08	2.0745E-06
+GOBP slim name	cell proliferation	HE	YES	7081	146	656	29	2.1441	3.481E-05	0.00047243
+GOBP slim name	Golgi vesicle transport	HE	YES	7081	93	656	18	2.0892	0.0011783	0.0065849
+GOBP slim name	regulation of translation	HE	YES	7081	106	656	20	2.0366	0.00091583	0.0054377
+GOBP slim name	cellular component disassembly	HE	YES	7081	179	656	33	1.99	4.8789E-05	0.00063204
+GOBP slim name	cell motility	HE	YES	7081	169	656	31	1.98	8.7342E-05	0.0009574
+GOBP slim name	locomotion	HE	YES	7081	245	656	44	1.9386	6.41E-06	0.00012179
+GOBP slim name	translation	HE	YES	7081	186	656	33	1.9151	0.00010121	0.0010293
+GOBP slim name	cell death	HE	YES	7081	207	656	36	1.8773	7.7546E-05	0.00093351
+GOBP slim name	death	HE	YES	7081	208	656	36	1.8682	8.5319E-05	0.0009574
+GOBP slim name	protein folding	HE	YES	7081	118	656	20	1.8295	0.0030509	0.014024
+GOBP slim name	viral reproduction	HE	YES	7081	220	656	37	1.8154	0.00012285	0.0010942
+GOBP slim name	amine metabolic process	HE	YES	7081	197	656	33	1.8082	0.00028425	0.0021895
+GOBP slim name	small molecule metabolic process	HE	YES	7081	758	656	125	1.78	7.6763E-12	1.0939E-09
+GOBP slim name	multi-organism process	HE	YES	7081	134	656	22	1.7722	0.002931	0.013694
+GOBP slim name	mitochondrion organization	HE	YES	7081	128	656	21	1.7709	0.0035482	0.016051
+GOBP slim name	carbohydrate metabolic process	HE	YES	7081	227	656	37	1.7594	0.00022424	0.0017752
+GOBP slim name	cell adhesion	HE	YES	7081	158	656	25	1.7079	0.002676	0.012711
+GOBP slim name	biological adhesion	HE	YES	7081	158	656	25	1.7079	0.002676	0.012711
+GOBP slim name	response to endogenous stimulus	HE	YES	7081	223	656	35	1.6942	0.00061222	0.0041544
+GOBP slim name	cell differentiation	HE	YES	7081	348	656	53	1.6439	7.8611E-05	0.00093351
+GOBP slim name	immune system process	HE	YES	7081	344	656	52	1.6317	0.00010855	0.0010312
+GOBP slim name	mitotic cell cycle	HE	YES	7081	174	656	26	1.6129	0.0045153	0.019207
+GOBP slim name	cellular component movement	HE	YES	7081	277	656	41	1.5977	0.00072833	0.0045125
+GOBP slim name	response to chemical stimulus	HE	YES	7081	681	656	100	1.5851	4.4276E-07	1.9505E-05
+GOBP slim name	regulation of protein modification process	HE	YES	7081	302	656	44	1.5727	0.00067178	0.0042546
+GOBP slim name	membrane organization	HE	YES	7081	284	656	40	1.5203	0.0019082	0.009888
+GOBP slim name	response to external stimulus	HE	YES	7081	243	656	34	1.5103	0.0039494	0.017541
+GOBP slim name	regulation of transport	HE	YES	7081	280	656	39	1.5035	0.0025204	0.012602
+GOBP slim name	homeostatic process	HE	YES	7081	282	656	38	1.4545	0.0044895	0.019207
+GOBP slim name	macromolecular complex assembly	HE	YES	7081	391	656	52	1.4355	0.0016825	0.0088796
+GOBP slim name	anatomical structure development	HE	YES	7081	537	656	71	1.4272	0.00040433	0.0029052
+GOBP slim name	developmental process	HE	YES	7081	1048	656	138	1.4214	1.527E-06	3.6266E-05
+GOBP slim name	vesicle-mediated transport	HE	YES	7081	339	656	44	1.401	0.0047269	0.019811
+GOBP slim name	cellular component assembly	HE	YES	7081	585	656	75	1.3839	0.00065749	0.0042546
+GOBP slim name	catabolic process	HE	YES	7081	493	656	63	1.3794	0.0016229	0.0087268
+GOBP slim name	biosynthetic process	HE	YES	7081	1174	656	146	1.3424	1.5763E-05	0.00028078
+GOBP slim name	cellular component organization	HE	YES	7081	1573	656	195	1.3381	5.5505E-07	1.9774E-05
+GOBP slim name	establishment of localization	HE	YES	7081	1024	656	126	1.3282	9.2246E-05	0.0009737
+GOBP slim name	transport	HE	YES	7081	985	656	121	1.326	0.00013307	0.0011492
+GOBP slim name	response to stimulus	HE	YES	7081	1645	656	200	1.3124	1.4998E-06	3.6266E-05
+GOBP slim name	response to stress	HE	YES	7081	749	656	91	1.3114	0.0010173	0.0059168
+GOBP slim name	protein metabolic process	HE	YES	7081	1081	656	130	1.2981	0.00018367	0.0015396
+GOBP slim name	signal transduction	HE	YES	7081	974	656	116	1.2856	0.00052899	0.0036771
+GOBP slim name	primary metabolic process	HE	YES	7081	2502	656	288	1.2425	4.0857E-07	1.9505E-05
+GOBP slim name	cellular process	HE	YES	7081	4087	656	470	1.2413	3.6246E-15	1.033E-12
+GOBP slim name	cellular nitrogen compound metabolic process	HE	YES	7081	1480	656	170	1.2399	0.00019956	0.001625
+GOBP slim name	cellular metabolic process	HE	YES	7081	2588	656	295	1.2304	6.7923E-07	2.1509E-05
+GOBP slim name	nitrogen compound metabolic process	HE	YES	7081	1525	656	173	1.2245	0.00031247	0.0023436
+GOBP slim name	organelle organization	HE	YES	7081	1007	656	114	1.222	0.0026307	0.012711
+GOBP slim name	metabolic process	HE	YES	7081	2798	656	316	1.2191	4.7908E-07	1.9505E-05
+GOBP slim name	biological regulation	HE	YES	7081	2636	656	296	1.2121	2.6219E-06	5.7481E-05
+GOBP slim name	nucleobase-containing compound metabolic process	HE	YES	7081	1345	656	148	1.1878	0.0022297	0.011348
+GOBP slim name	macromolecule metabolic process	HE	YES	7081	2103	656	223	1.1446	0.0015292	0.0083811
+GOBP slim name	macromolecule metabolic process	HE	NO	7081	2103	6425	1880	0.98524	0.0015292	0.0083811
+GOBP slim name	nucleobase-containing compound metabolic process	HE	NO	7081	1345	6425	1197	0.98083	0.0022297	0.011348
+GOBP slim name	biological regulation	HE	NO	7081	2636	6425	2340	0.97834	2.6219E-06	5.7481E-05
+GOBP slim name	metabolic process	HE	NO	7081	2798	6425	2482	0.97763	4.7908E-07	1.9505E-05
+GOBP slim name	organelle organization	HE	NO	7081	1007	6425	893	0.97733	0.0026307	0.012711
+GOBP slim name	nitrogen compound metabolic process	HE	NO	7081	1525	6425	1352	0.97708	0.00031247	0.0023436
+GOBP slim name	cellular metabolic process	HE	NO	7081	2588	6425	2293	0.97648	6.7923E-07	2.1509E-05
+GOBP slim name	cellular nitrogen compound metabolic process	HE	NO	7081	1480	6425	1310	0.97551	0.00019956	0.001625
+GOBP slim name	cellular process	HE	NO	7081	4087	6425	3617	0.97536	3.6246E-15	1.033E-12
+GOBP slim name	primary metabolic process	HE	NO	7081	2502	6425	2214	0.97524	4.0857E-07	1.9505E-05
+GOBP slim name	signal transduction	HE	NO	7081	974	6425	858	0.97084	0.00052899	0.0036771
+GOBP slim name	protein metabolic process	HE	NO	7081	1081	6425	951	0.96956	0.00018367	0.0015396
+GOBP slim name	response to stress	HE	NO	7081	749	6425	658	0.9682	0.0010173	0.0059168
+GOBP slim name	response to stimulus	HE	NO	7081	1645	6425	1445	0.96811	1.4998E-06	3.6266E-05
+GOBP slim name	transport	HE	NO	7081	985	6425	864	0.96672	0.00013307	0.0011492
+GOBP slim name	establishment of localization	HE	NO	7081	1024	6425	898	0.96649	9.2246E-05	0.0009737
+GOBP slim name	cellular component organization	HE	NO	7081	1573	6425	1378	0.96548	5.5505E-07	1.9774E-05
+GOBP slim name	biosynthetic process	HE	NO	7081	1174	6425	1028	0.96504	1.5763E-05	0.00028078
+GOBP slim name	catabolic process	HE	NO	7081	493	6425	430	0.96126	0.0016229	0.0087268
+GOBP slim name	cellular component assembly	HE	NO	7081	585	6425	510	0.96081	0.00065749	0.0042546
+GOBP slim name	vesicle-mediated transport	HE	NO	7081	339	6425	295	0.95906	0.0047269	0.019811
+GOBP slim name	developmental process	HE	NO	7081	1048	6425	910	0.95698	1.527E-06	3.6266E-05
+GOBP slim name	anatomical structure development	HE	NO	7081	537	6425	466	0.95639	0.00040433	0.0029052
+GOBP slim name	macromolecular complex assembly	HE	NO	7081	391	6425	339	0.95553	0.0016825	0.0088796
+GOBP slim name	homeostatic process	HE	NO	7081	282	6425	244	0.95359	0.0044895	0.019207
+GOBP slim name	regulation of transport	HE	NO	7081	280	6425	241	0.94859	0.0025204	0.012602
+GOBP slim name	response to external stimulus	HE	NO	7081	243	6425	209	0.9479	0.0039494	0.017541
+GOBP slim name	membrane organization	HE	NO	7081	284	6425	244	0.94688	0.0019082	0.009888
+GOBP slim name	regulation of protein modification process	HE	NO	7081	302	6425	258	0.94153	0.00067178	0.0042546
+GOBP slim name	response to chemical stimulus	HE	NO	7081	681	6425	581	0.94027	4.4276E-07	1.9505E-05
+GOBP slim name	cellular component movement	HE	NO	7081	277	6425	236	0.93897	0.00072833	0.0045125
+GOBP slim name	mitotic cell cycle	HE	NO	7081	174	6425	148	0.93742	0.0045153	0.019207
+GOBP slim name	immune system process	HE	NO	7081	344	6425	292	0.9355	0.00010855	0.0010312
+GOBP slim name	cell differentiation	HE	NO	7081	348	6425	295	0.93425	7.8611E-05	0.00093351
+GOBP slim name	response to endogenous stimulus	HE	NO	7081	223	6425	188	0.92913	0.00061222	0.0041544
+GOBP slim name	biological adhesion	HE	NO	7081	158	6425	133	0.92772	0.002676	0.012711
+GOBP slim name	cell adhesion	HE	NO	7081	158	6425	133	0.92772	0.002676	0.012711
+GOBP slim name	carbohydrate metabolic process	HE	NO	7081	227	6425	190	0.92246	0.00022424	0.0017752
+GOBP slim name	mitochondrion organization	HE	NO	7081	128	6425	107	0.92129	0.0035482	0.016051
+GOBP slim name	multi-organism process	HE	NO	7081	134	6425	112	0.92116	0.002931	0.013694
+GOBP slim name	small molecule metabolic process	HE	NO	7081	758	6425	633	0.92036	7.6763E-12	1.0939E-09
+GOBP slim name	amine metabolic process	HE	NO	7081	197	6425	164	0.91749	0.00028425	0.0021895
+GOBP slim name	viral reproduction	HE	NO	7081	220	6425	183	0.91675	0.00012285	0.0010942
+GOBP slim name	protein folding	HE	NO	7081	118	6425	98	0.9153	0.0030509	0.014024
+GOBP slim name	death	HE	NO	7081	208	6425	172	0.91135	8.5319E-05	0.0009574
+GOBP slim name	cell death	HE	NO	7081	207	6425	171	0.91043	7.7546E-05	0.00093351
+GOBP slim name	translation	HE	NO	7081	186	6425	153	0.90657	0.00010121	0.0010293
+GOBP slim name	locomotion	HE	NO	7081	245	6425	201	0.90417	6.41E-06	0.00012179
+GOBP slim name	cell motility	HE	NO	7081	169	6425	138	0.89994	8.7342E-05	0.0009574
+GOBP slim name	cellular component disassembly	HE	NO	7081	179	6425	146	0.89892	4.8789E-05	0.00063204
+GOBP slim name	regulation of translation	HE	NO	7081	106	6425	86	0.89416	0.00091583	0.0054377
+GOBP slim name	Golgi vesicle transport	HE	NO	7081	93	6425	75	0.88879	0.0011783	0.0065849
+GOBP slim name	cell proliferation	HE	NO	7081	146	6425	117	0.88319	3.481E-05	0.00047243
+GOBP slim name	cellular ketone metabolic process	HE	NO	7081	252	6425	201	0.87906	2.9116E-08	2.0745E-06
+GOBP slim name	cellular amino acid metabolic process	HE	NO	7081	143	6425	114	0.8786	2.3681E-05	0.00034815
+GOBP slim name	generation of precursor metabolites and energy	HE	NO	7081	118	6425	94	0.87794	0.00010473	0.0010293
+GOBP slim name	organic acid metabolic process	HE	NO	7081	243	6425	193	0.87533	2.2945E-08	2.0745E-06
+GOBP slim name	nucleotide metabolic process	HE	NO	7081	136	6425	108	0.8752	2.4431E-05	0.00034815
+GOBP slim name	heterocycle metabolic process	HE	NO	7081	179	6425	142	0.87429	1.2859E-06	3.6266E-05
+GOBP slim name	nucleobase-containing small molecule metabolic process	HE	NO	7081	158	6425	125	0.87192	3.6742E-06	7.4796E-05
+GOBP slim name	nucleobase-containing compound transport	HE	NO	7081	81	6425	64	0.8708	0.00065202	0.0042546
+GOBP slim name	cell junction organization	HE	NO	7081	64	6425	49	0.8438	0.00040775	0.0029052
+GOBP slim name	extracellular structure organization	HE	NO	7081	74	6425	55	0.81913	2.1343E-05	0.00033793
+GOBP slim name	extracellular matrix organization	HE	NO	7081	74	6425	55	0.81913	2.1343E-05	0.00033793
+GOBP slim name	cellular aromatic compound metabolic process	HE	NO	7081	51	6425	37	0.79956	0.00011409	0.0010489
+GOBP slim name	hormone transport	HE	NO	7081	13	6425	8	0.67822	0.0040005	0.017541
+GOBP slim name	cellular metabolic compound salvage	HE	NO	7081	14	6425	8	0.62977	0.00085975	0.0052134
+GOBP slim name	nucleotide-sugar metabolic process	HE	NO	7081	10	6425	5	0.55105	0.0010466	0.0059657
