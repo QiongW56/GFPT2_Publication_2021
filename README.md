@@ -268,7 +268,7 @@ Heatmap of the EMT markers from the dbemt database along with the Reactome pathw
 EMT markers were downloaded from http://dbemt.bioinfo-minzhao.org/ <br/>
 Genes in each cluster were put into Reactome (2020.4.18, Version 72)<br/>
 
-Note: comparing to the figure 1A, there are only 12 out of the 26 genes in figure 1A are in this figure.
+Note: comparing to the figure 1C, there are only 12 out of the 26 genes in figure 1C are in this figure.
 
 ## Supplementary Figure 3A-C
 Note: <br/>
