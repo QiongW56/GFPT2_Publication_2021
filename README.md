@@ -134,6 +134,7 @@ additional file 2<br/>
 
 Read ""README.txt"" in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.10 <br/>
 Patients: download data from TCGA --> Calculate in R --> plot in excel" <br/>
+https://www.cbioportal.org/study/summary?id=brca_metabric <br/>
 
 README.txt: <br/>
 DPYD paper (with MMS signaures): 
