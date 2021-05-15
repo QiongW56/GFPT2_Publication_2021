@@ -284,7 +284,7 @@ C:/Users/lenovo/OneDrive - Háskóli Íslands/PC-HI/5 ProteomicPaper/Figures&Tab
 How the plot was generated:<br/>
 1 EM&HE&HM_SILAC&LFQ_DataInput_07.02.2019.R <br/>
 2 output: PerseusInPutTable_SILAC_EM&HE&HM_07.02.2019.txt <br/> 
-3 EM&HE&HM_SILAC&LFQ_07.04.2019.sps in here (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the 4 paper\Annotations\Perseus\EM&HE&HM_06.02.2019_LFQ&SILAC_significant\Perseus_1.6.12.0) <br/> 
+3 EM&HE&HM_SILAC&LFQ_07.04.2019.sps in here (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Perseus\EM&HE&HM_06.02.2019_LFQ&SILAC_significant\Perseus_1.6.12.0) <br/> 
 4 PerseusOutPutTable_X_Y_07.04.2019.txt <br/> 
 5 EM&HE&HM_SILAC&LFQ_Plotting_07.02.2019.R for plotting
 
