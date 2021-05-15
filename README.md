@@ -288,6 +288,16 @@ How the plot was generated:<br/>
 4 PerseusOutPutTable_X_Y_07.04.2019.txt <br/> 
 5 EM&HE&HM_SILAC&LFQ_Plotting_07.02.2019.R for plotting
 
+## Supplementary Figure 3D-F
+Note:<br/>
+Used the R code from:<br/>
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\pathfindR\Rfiles\GOannotation_&enrichment_EM&HE&HM_2020.01.08.R
 
+Bubble charts<br/>
+1. take genes from 'SupplementaryData6_DifferentlyExpressedProteins'
+2. in R, run ""pathfindR"" package, using ""Biogrid"" and ""KEGG""
+3. 100 cycles
+4. for the bubble chart, pvalues were mean of LFQ_FDR and SILAC_Pvalue
+5. For the pathway heatmap, protein quantification data only used LFQ data (didn't use the heatmap)
 
 
