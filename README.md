@@ -171,8 +171,10 @@ But i replaced the "Basal B" with "Mesenchymal" for three cell lines "BT549","MD
 6. "BasicNeg_Knockdown_Metabolomics_NOV2019.xlsx" will be saved in "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019"
 8. Open and run R file "KDexperiment_Basic_Plotting_NoScrButOtherKDs_10.12.2019.R" and other Rfiles to plot (need to recall more about this part)
 9. Note: The R files for plotting were NOT dependent on "BasicNeg_Knockdown_Metabolomics_NOV2019.xlsx", they are related to files in 
-C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019\Metabolomics_KD_EMH_Basic_03.12.2019
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019\Metabolomics_KD_EMH_Basic_03.12.2019 <br/>
 
+Note: <br/>
+README in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.7
 
 
 
