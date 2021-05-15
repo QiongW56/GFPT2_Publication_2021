@@ -1,0 +1,15 @@
+Selection column	Selection value	Category column	Category value	Total size	Selection size	Category size	Intersection size	Enrichment factor	P value	Benj. Hoch. FDR
+#!{Description}Column that indicates which items are taken as 'selected' for the fisher exact test	Value in the 'selection' column	Categorical column tested against the 'selection'	Term from this categorical column.	Total number of items used as a basis for the enrichment test.	Number of items in the selection.	Number of items in the current category.	Intersection: Number of items that are in the current category as well as in the selection.	Enrichment factor = ((Intersection size)*(Total size))/((Selection size)*(Category size)); Values < 1 indicate depletion.	P value resulting from the Fisher exact test.	Benjamini Hochberg false discovery rate.
+#!{Type}C	C	C	C	N	N	N	N	N	N	N
+Motifs	MAPKAPK2 kinase substrate motif	Multiplicity	___3	826	119	65	18	1.9222	0.0017076	0.074612
+Motifs	DNA dependent Protein kinase substrate motif	Multiplicity	___3	826	113	65	17	1.9118	0.0024463	0.074612
+Motifs	GSK3 kinase substrate motif	Multiplicity	___2	826	90	208	33	1.4561	0.0034973	0.076252
+Motifs	Casein kinase II substrate motif	Multiplicity	___2	826	428	208	126	1.1691	0.00088381	0.074612
+Motifs	Growth associated histone HI kinase substrate motif	Multiplicity	___1	826	113	553	87	1.15	0.0040623	0.076252
+Motifs	PKC kinase substrate motif	Multiplicity	___1	826	336	553	240	1.0669	0.0045835	0.076252
+Motifs	Casein kinase II substrate motif	Multiplicity	___1	826	428	553	270	0.94227	0.002946	0.076252
+Motifs	MAPKAPK2 kinase substrate motif	Multiplicity	___1	826	119	553	68	0.85353	0.0043551	0.076252
+Motifs	PKA kinase substrate motif	Multiplicity	___2	826	356	208	76	0.84777	0.0056028	0.085443
+Motifs	DNA dependent Protein kinase substrate motif	Multiplicity	___1	826	113	553	63	0.83275	0.0023179	0.074612
+Motifs	PKC kinase substrate motif	Multiplicity	___2	826	336	208	68	0.80369	0.0016043	0.074612
+Motifs	GSK3 kinase substrate motif	Multiplicity	___1	826	90	553	47	0.78003	0.00080898	0.074612
