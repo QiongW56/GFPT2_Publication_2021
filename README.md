@@ -343,12 +343,11 @@ Western blots and Cell images
 ## Supplementary Figure 8A-C
 UDP-Glc, UDP-GlcA and GlcNAc-P levels in the three cell lines; acidic mode data; Phenylalanine IS <br/>
 
+## Supplementary Figure 8D-F
+The percentage of 13C incorporation into the metabolites from the 13C-Glc 13C-1-Gln and 13C-5-Gln.
 
-
-
-
-
-
+## Supplementary Figure 9-10
+The figures were generated in Excel.
 
 
 
