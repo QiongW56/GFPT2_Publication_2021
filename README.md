@@ -331,6 +331,10 @@ C:\Users\CSB\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables
 
 C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Reactome\Metabolic Proteins_H vs M\STRING-output"
 
+## Supplementary Figure 5A-C
+RNA expression of GALE, UGDH and PGM2L1.
+
+
 
 
 
