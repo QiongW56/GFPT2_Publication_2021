@@ -149,7 +149,29 @@ Smith's paper for classification
 I can combine the TNBC-iBAQ and Smith's paper together for cell characterization, but they don't really agree with each other. 
 But i replaced the "Basal B" with "Mesenchymal" for three cell lines "BT549","MDAMB231", "MDAMB157"
 
+## Figuer 6A
+### Acidic analysis procedure
+1. TargetLynx -> peak picking
+2. Export "Complete Summary"
+3. Put "temp" .txt file into "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentRepeat_16.07.2019\QIONG\TargetLynxFile"
+4. Upload "temp" .txt file in Excel and named "temp.xlsx"
+5. Open and run R file "AcidicNeg_KD_Met_Q_16.07.2019.R"
+6. "AcidicNeg_Knockdown_Metabolomics_16.07.2019.xlsx" will be saved in "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentRepeat_16.07.2019\QIONG"
+7. Replace all "first Scr sample" with the "second Scr sample" and saved in another .xlsx file "AcidicNeg_Knockdown_Metabolomics_3Scr_18.07.2019"
+8. Open and run R file "PlotingPercentageQ_CellType_17.07.2019.R" and "WT_Q_16.07.2019.bar.plot.R"
+9. "AcidicNeg_Knockdown_Metabolomics_3Scr_template.xlsx" file used "AcidicNeg_Knockdown_Metabolomics_3Scr_18.07.2019.xlsx" as a template to generate "Acetylaspartate
+" plotting.
 
+### Basic analysis procedure
+1. TargetLynx -> peak picking
+2. Export "Complete Summary"
+3. Put "temp" .txt file into "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019\TargetLynx"
+4. Upload "temp" .txt file in Excel and named "temp.xlsx"
+5. Open and run R file "BasicNeg_Knockdown_Metabolomics_NOV2019.R" in Rfiles folder.
+6. "BasicNeg_Knockdown_Metabolomics_NOV2019.xlsx" will be saved in "C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019"
+8. Open and run R file "KDexperiment_Basic_Plotting_NoScrButOtherKDs_10.12.2019.R" and other Rfiles to plot (need to recall more about this part)
+9. Note: The R files for plotting were NOT dependent on "BasicNeg_Knockdown_Metabolomics_NOV2019.xlsx", they are related to files in 
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Glycan precursor analysis\KDexperimentBasic_03.12.2019\Metabolomics_KD_EMH_Basic_03.12.2019
 
 
 
