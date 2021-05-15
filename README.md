@@ -176,6 +176,14 @@ C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tab
 Note: <br/>
 README in C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\ProteomicsManuscript_03.07.2019\NewFigures&Data_2020\1-MainFigures\Fig.7
 
+## Figure 6B
+UDP-GlcNAc levels in the three cell lines; basic mode data; Succinate IS <br/>
+
+## Figure 6C
+13C tracing experiments; normalized to the total metabolite level from basic mode (data used for figure 6B). <br/>
+
+
+
 
 
 
