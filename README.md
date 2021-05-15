@@ -340,6 +340,8 @@ Knockdown efficiency for GFPT2 in all four cell lines with two siRNAs.
 ## Supplementary Figure 6-7
 Western blots and Cell images
 
+## Supplementary Figure 8A-C
+UDP-Glc, UDP-GlcA and GlcNAc-P levels in the three cell lines; acidic mode data; Phenylalanine IS <br/>
 
 
 
