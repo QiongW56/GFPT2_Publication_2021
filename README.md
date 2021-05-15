@@ -122,7 +122,9 @@ Invasion: Evos --> pictures --> ImageJ & Macro API --> R <br/>
 ## Figure 5
 Note: <br/>
 "CCLE: download GFPT2 data from CCLE website --> z-score and plotting in R <br/>
+CCLE (https://portals.broadinstitute.org/ccle) <br/>
 HMS: download data from HMS website --> organize in excel --> z-score and plotting in R <br/>
+HMS LINCS (http://lincs.hms.harvard.edu/db/datasets/20348/) <br/>
 used Smith's paper to characterize the breast cell lines for both CCLE and HMS <br/>
 <br/>
 Molecular characterization of breast cancer cell lines through multiple omic approaches<br/>
