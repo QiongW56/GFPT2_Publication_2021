@@ -230,7 +230,8 @@ GSK3B protein level <br/>
 ## Figure 8J-M
 GSK3B knockdown - GFPT2 RNA expression
 
-        
+## Figure 9
+Summary of the study - generated in excel.
         
 
 
