@@ -282,7 +282,11 @@ C:/Users/lenovo/OneDrive - Háskóli Íslands/PC-HI/5 ProteomicPaper/Figures&Tab
 5. enrichment factor > 2 or 1.5 or 1.25 – just for easy-to-read
 
 How the plot was generated:<br/>
-EM&HE&HM_SILAC&LFQ_DataInput_07.02.2019.R  output: PerseusInPutTable_SILAC_EM&HE&HM_07.02.2019.txt  EM&HE&HM_SILAC&LFQ_07.04.2019.sps in here (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Perseus\EM&HE&HM_06.02.2019_LFQ&SILAC_significant\Perseus_1.6.12.0)  PerseusOutPutTable_X_Y_07.04.2019.txt  EM&HE&HM_SILAC&LFQ_Plotting_07.02.2019.R for plotting
+EM&HE&HM_SILAC&LFQ_DataInput_07.02.2019.R <br/>
+output: PerseusInPutTable_SILAC_EM&HE&HM_07.02.2019.txt <br/> 
+EM&HE&HM_SILAC&LFQ_07.04.2019.sps in here (C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Annotations\Perseus\EM&HE&HM_06.02.2019_LFQ&SILAC_significant\Perseus_1.6.12.0) <br/> 
+PerseusOutPutTable_X_Y_07.04.2019.txt <br/> 
+EM&HE&HM_SILAC&LFQ_Plotting_07.02.2019.R for plotting
 
 
 
