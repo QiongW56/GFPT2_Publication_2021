@@ -227,7 +227,8 @@ GSK3B_pS9 <br/>
 GSK3B RNA level <br/>
 GSK3B protein level <br/>
 
-
+## Figure 8J-M
+GSK3B knockdown - GFPT2 RNA expression
 
         
         
