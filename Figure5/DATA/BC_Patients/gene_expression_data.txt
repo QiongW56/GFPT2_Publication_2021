@@ -1,0 +1,4 @@
+The gene expression data were too big (more than 100M) to upload.
+
+data location:
+C:\Users\lenovo\OneDrive - Háskóli Íslands\PC-HI\5 ProteomicPaper\Figures&Tables in the paper\Figures\Figure 10\RawData\brca_metabric
